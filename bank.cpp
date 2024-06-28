@@ -45,4 +45,6 @@ void Bank:: resetInsurance(){
 
 } // сброс списка застраховавшихся
 
+void someMethod1_0(){} // ещё метод
+void someMethod2(){} // и ещё какой-то метод
 void some_method(){} // какой-то метод
