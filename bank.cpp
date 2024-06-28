@@ -22,7 +22,7 @@ std::vector<Player*>Bank:: getInsuredPlayers() {
 Bank:: Bank(std::vector<Player>& p) : players(p) {}
 
 void Bank::auction(std::vector<Player>& players, std::vector<std::pair<int, int>> offers) {
-
+в
 }//нужно прописать момент с балансом цен через просмотр баланса цен либо через понижение цены на условно 20%
 
 bool Bank:: credit(Player& player) {
@@ -35,7 +35,7 @@ std::vector<Player*> Bank:: checkCredits() {
 
 bool Bank:: buyInsurance(Player& player) {
 
-} //покупка страховки должника
+} //покупка страховки 
 
 std::vector<Player*> Bank:: getInsurance() {
 
@@ -44,3 +44,5 @@ std::vector<Player*> Bank:: getInsurance() {
 void Bank:: resetInsurance(){
 
 } // сброс списка застраховавшихся
+
+void some_method(){} // какой-то метод
