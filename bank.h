@@ -8,6 +8,8 @@ class Bank {
 private:
     std::vector<Player*> credit_defaulters; // Игроки, просрочившие кредит
     std::vector<Player*> insured_players; // Игроки со страховкой
+    //чё тто новое
+
 
 public:
 
