@@ -1,2 +1,2 @@
 # main_repo
-для new-branch
+eshche odna konflictnaya vetka
